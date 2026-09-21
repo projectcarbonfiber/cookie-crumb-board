@@ -21,6 +21,9 @@
 
 **YES.** Live static site + public Cookie RPC reads + simulated board. No paid services required.
 
+**Live URL:** https://projectcarbonfiber.github.io/cookie-crumb-board/
+**Public repo:** https://github.com/projectcarbonfiber/cookie-crumb-board
+
 ## Exact next Noah HITL steps ($0)
 
 ### 1) Install Nightly (free) — ~5 min
@@ -46,8 +49,8 @@ Listing: https://superteam.fun/earn/listing/create-an-app-on-cookie-chain-app/
 
 **Prep checklist (still $0):**
 
-- [ ] Live URL (Pages) works
-- [ ] Public GitHub repo + README
+- [x] Live URL (GitHub Pages) published: https://projectcarbonfiber.github.io/cookie-crumb-board/
+- [x] Public GitHub repo + README: https://github.com/projectcarbonfiber/cookie-crumb-board
 - [ ] Addresses: tip jar `89iCLYPebBsQVxQMPcEKGybCYV6sJrRtK6tG1uSKaRgF`; custom program = none (Memo)
 - [ ] Screenshots: demo banner, Nightly connect, simulated crumb, chain health
 - [ ] Draft X thread (demo mode story + Bridge CTA as *optional* for users who want on-chain — **you** do not bridge)

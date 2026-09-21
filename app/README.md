@@ -49,7 +49,7 @@ npm run build
 
 | Item | Address |
 |------|---------|
-| Live URL | _TBD after free Pages deploy_ |
+| Live URL | https://projectcarbonfiber.github.io/cookie-crumb-board/ |
 | Tip jar | `89iCLYPebBsQVxQMPcEKGybCYV6sJrRtK6tG1uSKaRgF` |
 | Custom program | _none in v1 — Memo + SystemProgram_ |
 | Token mint | native COOK |
@@ -61,7 +61,7 @@ npm run build
 - [x] Execute path (on-chain) + confirmation / errors
 - [x] **Free demo mode** (simulated crumbs + RPC health)
 - [x] Activity feed + explorer links + analytics cards
-- [ ] Public live URL (free Pages — Noah HITL)
+- [x] Public live URL (GitHub Pages)
 - [ ] X demo thread + Telegram share (Noah)
 - [ ] Earn form submit (human only — **not by agents**)
 
