@@ -1,6 +1,6 @@
 # HERO_STATUS — Cookie Crumb Board ($0 path)
 
-**As of:** Mon Sep 21, 2026 ~7:45 AM ET  
+**As of:** Mon Sep 21, 2026 8:13 AM ET  
 **Deadline:** Tue Sep 22, 2026 **5:59 PM ET**  
 **Spend:** **$0** — no bridge, no COOK purchase, no Earn submit from agents.
 
